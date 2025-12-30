@@ -1,0 +1,7 @@
+{
+  "name": "Ethereal Birthday 2025",
+  "description": "An ultra-modern, interactive birthday experience with personalized AI-generated wishes, emotional storytelling, and sophisticated animations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
